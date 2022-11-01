@@ -1,0 +1,145 @@
+{
+    "nodetype": "Problem",
+    "nodename": {
+        "node_func": "host 1"
+    },
+    "prevnodename": {
+        "node_func": "host 1"
+    },
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "description": "<p><br></p>",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "privacy_level": "internal",
+    "related_convs": [],
+    "msg": "",
+    "currsession": "nnKgxpycnPDhPAYv",
+    "metadata": {
+        "create_username": "sarang@dagknows.com",
+        "create_tstp": 1663893107.9541254,
+        "modify_username": "sarang@dagknows.com",
+        "modify_tstp": 1665628788.3557394
+    },
+    "node_id": "IX7fXOTrcJybYrX6",
+    "comments": [
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1663893107.9541254
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1663954398.2838192
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1665611028.7149546
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1665611240.294629
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1665616986.5633144
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1665617024.3082488
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1665617057.0616677
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1665617759.206049
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1665628788.3557394
+        }
+    ],
+    "class": [],
+    "conv_id": "__dags",
+    "reasons": [
+        {
+            "reason_node_id": "RBp4oKEQczrqViN3",
+            "reason_func": "khai test memory",
+            "reason_input_params": {},
+            "reason_output_params": {}
+        },
+        {
+            "reason_node_id": "aMf5Vxud2xNoiWb7",
+            "reason_func": "khai test child A",
+            "reason_input_params": {},
+            "reason_output_params": {}
+        }
+    ],
+    "parents": [],
+    "affects": []
+}
