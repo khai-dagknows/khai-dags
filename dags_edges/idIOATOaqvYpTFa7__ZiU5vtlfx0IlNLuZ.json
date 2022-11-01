@@ -1,0 +1,52 @@
+{
+    "dag_edges": {
+        "children": [
+            {
+                "node_id": "nX2zvtOPohHoQeBf",
+                "input_params": {
+                    "device_family": "device_family",
+                    "failed_node_ip_address": "failed_node_ip_address",
+                    "image_md5": "image_md5",
+                    "image_name": "image_name",
+                    "memory_required": "memory_required",
+                    "rommon_image": "rommon_image",
+                    "rommon_md5": "rommon_md5",
+                    "scp_image_directory": "scp_image_directory",
+                    "scp_ip_address": "scp_ip_address"
+                },
+                "output_params": {}
+            },
+            {
+                "node_id": "s4y4J6Va8pzNIrlQ",
+                "input_params": {
+                    "device_bootflash_memory_required_in_mb": "device_bootflash_memory_required_in_mb",
+                    "device_family": "device_family",
+                    "device_image_md5": "device_image_md5",
+                    "device_ios_image_name": "device_ios_image_name",
+                    "device_ip_address": "device_ip_address",
+                    "device_rommon_image": "device_rommon_image",
+                    "device_rommon_md5": "device_rommon_md5",
+                    "ios_image_scp_root_path": "ios_image_scp_root_path",
+                    "scp_ip_address": "scp_ip_address"
+                },
+                "output_params": {}
+            },
+            {
+                "node_id": "H59Qt3AOcGb2OHZi",
+                "input_params": {
+                    "device_bootflash_memory_required_in_mb": "device_bootflash_memory_required_in_mb",
+                    "device_family": "device_family",
+                    "device_image_md5": "device_image_md5",
+                    "device_ios_image_name": "device_ios_image_name",
+                    "device_ip_address": "device_ip_address",
+                    "device_rommon_image": "device_rommon_image",
+                    "device_rommon_md5": "device_rommon_md5",
+                    "ios_image_scp_root_path": "ios_image_scp_root_path",
+                    "scp_ip_address": "scp_ip_address"
+                },
+                "output_params": {}
+            }
+        ],
+        "parents": []
+    }
+}

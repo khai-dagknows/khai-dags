@@ -1,0 +1,5 @@
+{
+    "dag_id": "__default_dag",
+    "dag_title": "Default DAG",
+    "dag_description": "This is a default DAG"
+}

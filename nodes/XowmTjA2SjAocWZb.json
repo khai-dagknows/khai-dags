@@ -1,0 +1,38 @@
+{
+    "nodetype": "Problem",
+    "nodename": {
+        "node_func": "khai test memory 3"
+    },
+    "prevnodename": {
+        "node_func": ""
+    },
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "description": "<p><br></p>",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "privacy_level": "internal",
+    "related_convs": [],
+    "msg": "",
+    "conv_id": "__dags",
+    "currsession": "PO9Mvy3e1rJwHrYp",
+    "metadata": {
+        "create_username": "sarang@dagknows.com",
+        "create_tstp": 1663956571.136123
+    },
+    "node_id": "XowmTjA2SjAocWZb",
+    "comments": [
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1663956571.136123
+        }
+    ]
+}

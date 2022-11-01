@@ -1,0 +1,95 @@
+{
+    "appname": "JJSI IOS Upgrade DAG",
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1653027586.26525,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1653028128.9080594,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654578903.4019134,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1657598020.5661187,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1657598522.3340268,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "ZFMe2eCSfHXkF08Ph9issQ",
+    "currsession": "NvxyUDsUKA8pZzst",
+    "description": "<p>Haha</p>",
+    "evidence": "",
+    "evidtype": "Script",
+    "msg": "",
+    "node_id": "ZiU5vtlfx0IlNLuZ",
+    "nodename": {
+        "input_params": {
+            "device_bootflash_memory_required_in_mb": "device_bootflash_memory_required_in_mb",
+            "device_family": "device_family",
+            "device_image_md5": "device_image_md5",
+            "device_ios_image_name": "device_ios_image_name",
+            "device_ip_address": "device_ip_address",
+            "device_rommon_image": "device_rommon_image",
+            "device_rommon_md5": "device_rommon_md5",
+            "ios_image_scp_root_path": "ios_image_scp_root_path",
+            "scp_ip_address": "scp_ip_address"
+        },
+        "node_func": "JJSI IOS Upgrade"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "JJSI IOS Upgrade"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1664388391.509088,
+        "create_username": "info@dagknows.com"
+    }
+}

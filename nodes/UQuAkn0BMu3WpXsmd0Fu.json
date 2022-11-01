@@ -59,12 +59,5 @@
     "tags": {},
     "class": [
         "regular_node"
-    ],
-    "reasons": [],
-    "parents": [
-        "eQuYkn0BMu3WpXsm4kN3"
-    ],
-    "affects": [
-        "check: requests are not reaching the app"
     ]
 }

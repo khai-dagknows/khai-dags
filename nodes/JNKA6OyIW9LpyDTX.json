@@ -46,25 +46,5 @@
             },
             "tstp": 1666112150.102609
         }
-    ],
-    "reasons": [
-        {
-            "reason_node_id": "eqdXLEJsaqDZgFyF",
-            "reason_func": "exec node 2",
-            "reason_input_params": {
-                "y": "y",
-                "x": "x"
-            }
-        },
-        {
-            "reason_node_id": "HULBLF7JgLaZFhdr",
-            "reason_func": "exec node 3",
-            "reason_input_params": {
-                "y": "y",
-                "x": "x"
-            }
-        }
-    ],
-    "parents": [],
-    "affects": []
+    ]
 }

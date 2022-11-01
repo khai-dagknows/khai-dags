@@ -1,0 +1,14 @@
+{
+    "dag_edges": {
+        "children": [
+            {
+                "node_id": "nZ7aJA05hjtXRu9E",
+                "input_params": {
+                    "instance_ids": "instance_ids",
+                    "port": "port"
+                }
+            }
+        ],
+        "parents": []
+    }
+}

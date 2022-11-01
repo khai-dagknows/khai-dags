@@ -1,0 +1,136 @@
+{
+    "appname": "Application unreachable 12/06/2021",
+    "class": [
+        "regular_node"
+    ],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1600563609.59977,
+            "user_info": {
+                "first_name": "Eng",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Techrep",
+                "uname": "sarang+support@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1627059327.3181765,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1628826700.7191978,
+            "user_info": {
+                "first_name": "SRE",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1634842133.0350242,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1634842300.7062287,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1634842342.4189436,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1634842375.9136486,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1634842772.3558393,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "zRQE-nHW8oULaLivmQXCyQ",
+    "currsession": "5QUCa3rc0AmfSh7Q",
+    "description": "<p>The problem could with with the Domain Name Service (DNS). DNS is the service that returns an IP address for a website. If you are trying to reach a website or a URL and DNS is not able to map the URL to the IP address then the connection can't be established.</p>",
+    "evidence": "#_problem = False",
+    "evidtype": "Script",
+    "msg": "",
+    "nodename": {
+        "input_params": {},
+        "node_func": "DNS problems"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "DNS problems"
+    },
+    "privacy_level": "internal",
+    "related_convs": [
+        [
+            "B7F1pNZ4p7_8HhIUnpQuzw",
+            "Netflix problems"
+        ],
+        [
+            "H5grlemDHSiyvfDjwElLYw",
+            "Netflix not working"
+        ],
+        [
+            "zendesk__5",
+            "Connectivity problems with the instances (Zendesk ticket: 5)"
+        ]
+    ],
+    "res": "<p>Debug the next set of causes of the DNS problems.</p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {
+        "_dag": "Netflix,DNS,network_issues,Connectivity"
+    },
+    "node_id": "U8roOGRXfDZ9Q2EX",
+    "metadata": {
+        "create_tstp": 1662428424.4060755,
+        "create_username": "info@dagknows.com"
+    }
+}

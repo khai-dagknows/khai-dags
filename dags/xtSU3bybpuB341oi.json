@@ -1,0 +1,14 @@
+{
+    "create_user": {
+        "uname": "sarang@dagknows.com",
+        "org": "DagKnows",
+        "role": "Supremo",
+        "first_name": "Sarang",
+        "last_name": "Dharmapurikar"
+    },
+    "modify_user": {},
+    "create_tstp": 1663890002.5006635,
+    "dag_title": "test dag 1",
+    "dag_description": "<p>Just to test if we can create a DAG</p>",
+    "dag_id": "xtSU3bybpuB341oi"
+}

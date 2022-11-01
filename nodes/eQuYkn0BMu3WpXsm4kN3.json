@@ -81,29 +81,5 @@
     "tags": {},
     "class": [
         "regular_node"
-    ],
-    "reasons": [
-        {
-            "reason_node_id": "jguCkn0BMu3WpXsmt0Ff",
-            "reason_func": "check: IP address blocked",
-            "reason_input_params": {
-                "src_ipv4_addr": "src_ipv4_addr"
-            },
-            "reason_output_params": {}
-        },
-        {
-            "reason_node_id": "UQuAkn0BMu3WpXsmd0Fu",
-            "reason_func": "check: port blocked",
-            "reason_input_params": {
-                "port": "port"
-            },
-            "reason_output_params": {}
-        }
-    ],
-    "parents": [
-        "gguCkn0BMu3WpXsmJkGp"
-    ],
-    "affects": [
-        "check: app stopped responding"
     ]
 }

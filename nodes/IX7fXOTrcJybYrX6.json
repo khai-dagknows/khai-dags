@@ -125,21 +125,5 @@
         }
     ],
     "class": [],
-    "conv_id": "__dags",
-    "reasons": [
-        {
-            "reason_node_id": "RBp4oKEQczrqViN3",
-            "reason_func": "khai test memory",
-            "reason_input_params": {},
-            "reason_output_params": {}
-        },
-        {
-            "reason_node_id": "aMf5Vxud2xNoiWb7",
-            "reason_func": "khai test child A",
-            "reason_input_params": {},
-            "reason_output_params": {}
-        }
-    ],
-    "parents": [],
-    "affects": []
+    "conv_id": "__dags"
 }

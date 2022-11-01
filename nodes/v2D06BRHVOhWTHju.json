@@ -1,0 +1,83 @@
+{
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1614111010.6534092,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1636858121.986746,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1638892182.564403,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1643066744.2063146,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "B29gXGzwtVi3j7VlAdrkqQ",
+    "currsession": "F6agKGpOztfYMZ4i",
+    "description": "<p>The problme could be due to the pod not attaching to the correct node in the k8s clutser due to incorrect affinity</p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "msg": "",
+    "node_id": "v2D06BRHVOhWTHju",
+    "nodename": {
+        "input_params": {},
+        "node_func": "Pod affinity issues"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Pod affinity issues"
+    },
+    "privacy_level": "internal",
+    "related_convs": [
+        [
+            "aMZL3ixKGN0JfaWm8QySAg",
+            "test1"
+        ]
+    ],
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {
+        "newtag": "newval"
+    },
+    "class": [
+        "regular_node"
+    ],
+    "metadata": {
+        "create_tstp": 1662428424.2222092,
+        "create_username": "info@dagknows.com"
+    }
+}
