@@ -1,0 +1,89 @@
+{
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1608197095.6418488,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Supremo",
+                "org": "Dagknows",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1608197215.4479337,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Supremo",
+                "org": "Dagknows",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1608197261.8777092,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Supremo",
+                "org": "Dagknows",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1608197377.5243888,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Supremo",
+                "org": "Dagknows",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1638840394.6792233,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "gmRpbEelWUimL57M7AyTlA",
+    "currsession": "qu89V5ICBpoaNzRF",
+    "description": "<p><br></p>",
+    "evidence": "from daglib_vault import prolog\n\nresp = _remote_fh(\"m1\", \"apiserver.log\")\nfh = resp['filehandle']\n\nlines = prolog(filehandle=fh).get_in_last_hrs(10).lines\n_problem = True\nif len(lines) > 0:\n    _problem = False",
+    "evidtype": "Script",
+    "msg": "",
+    "node_id": "GQt_kn0BMu3WpXsm40Fh",
+    "nodename": {
+        "input_params": {},
+        "node_func": "check: server went down"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "offline check: server went down"
+    },
+    "privacy_level": "private",
+    "related_convs": [],
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "class": [
+        "regular_node"
+    ],
+    "reasons": [],
+    "parents": [
+        "gguCkn0BMu3WpXsmJkGp"
+    ],
+    "affects": [
+        "check: app stopped responding"
+    ]
+}
