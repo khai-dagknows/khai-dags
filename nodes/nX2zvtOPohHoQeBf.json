@@ -1,0 +1,72 @@
+{
+    "appname": "JJSI IOS Upgrade DAG",
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1653028339.9585876,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654578575.6764977,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654580110.4463682,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        }
+    ],
+    "conv_id": "b5fDa0lb5pJD911HfH2Y8w",
+    "currsession": "oD3g52BBADs2KF4L",
+    "description": "<p><br></p>",
+    "evidence": "",
+    "evidtype": "Script",
+    "msg": "",
+    "node_id": "nX2zvtOPohHoQeBf",
+    "nodename": {
+        "input_params": {
+            "device_family": "device_family",
+            "failed_node_ip_address": "failed_node_ip_address",
+            "image_md5": "image_md5",
+            "image_name": "image_name",
+            "memory_required": "memory_required",
+            "rommon_image": "rommon_image",
+            "rommon_md5": "rommon_md5",
+            "scp_image_directory": "scp_image_directory",
+            "scp_ip_address": "scp_ip_address"
+        },
+        "node_func": "JJSI Issue with IOS/ROMMON image validation"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "JJSI Issue with IOS/ROMMON images validation"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1664388391.5089674,
+        "create_username": "info@dagknows.com"
+    }
+}

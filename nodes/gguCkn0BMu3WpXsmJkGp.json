@@ -205,24 +205,5 @@
     "restype": "Description",
     "state": "approved",
     "tags": {},
-    "class": [],
-    "reasons": [
-        {
-            "reason_node_id": "GQt_kn0BMu3WpXsm40Fh",
-            "reason_func": "check: server went down",
-            "reason_input_params": {},
-            "reason_output_params": {}
-        },
-        {
-            "reason_node_id": "eQuYkn0BMu3WpXsm4kN3",
-            "reason_func": "check: requests are not reaching the app",
-            "reason_input_params": {
-                "port": "port",
-                "src_ipv4_addr": "src_ipv4_addr"
-            },
-            "reason_output_params": {}
-        }
-    ],
-    "parents": [],
-    "affects": []
+    "class": []
 }
