@@ -53,5 +53,12 @@
             },
             "tstp": 1666112213.0463226
         }
+    ],
+    "reasons": [],
+    "parents": [
+        "JNKA6OyIW9LpyDTX"
+    ],
+    "affects": [
+        "exec node 1 test"
     ]
 }

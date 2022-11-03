@@ -1,13 +1,13 @@
 {
     "nodetype": "Problem",
     "nodename": {
-        "node_func": "exec node 1",
+        "node_func": "exec node 1 test",
         "input_params": {
             "x": "x"
         }
     },
     "prevnodename": {
-        "node_func": ""
+        "node_func": "exec node 1"
     },
     "evidence": "y = x + 5\n_to_session = y\n_problem = False\nif y > 6:\n    _problem = True\n",
     "evidtype": "Script",
@@ -18,8 +18,7 @@
     "privacy_level": "internal",
     "related_convs": [],
     "msg": "",
-    "conv_id": "__dags",
-    "currsession": "MEv2ZCdq72LFNiki",
+    "currsession": "6pe6AtGnMzHx8n3X",
     "metadata": {
         "create_username": "sarang@dagknows.com",
         "create_tstp": 1666112150.102609,
@@ -31,7 +30,9 @@
             "role": "Supremo",
             "first_name": "Sarang",
             "last_name": "Dharmapurikar"
-        }
+        },
+        "modify_username": "sarang@dagknows.com",
+        "modify_tstp": 1667500807.6692328
     },
     "node_id": "JNKA6OyIW9LpyDTX",
     "comments": [
@@ -45,6 +46,38 @@
                 "last_name": "Dharmapurikar"
             },
             "tstp": 1666112150.102609
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1667500807.6692328
         }
-    ]
+    ],
+    "conv_id": "__dags",
+    "reasons": [
+        {
+            "reason_node_id": "eqdXLEJsaqDZgFyF",
+            "reason_func": "exec node 2",
+            "reason_input_params": {
+                "y": "y",
+                "x": "x"
+            }
+        },
+        {
+            "reason_node_id": "HULBLF7JgLaZFhdr",
+            "reason_func": "exec node 3",
+            "reason_input_params": {
+                "y": "y",
+                "x": "x"
+            }
+        }
+    ],
+    "parents": [],
+    "affects": []
 }
