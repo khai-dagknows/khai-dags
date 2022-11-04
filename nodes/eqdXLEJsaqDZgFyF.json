@@ -17,7 +17,7 @@
         "create_username": "sarang@dagknows.com",
         "create_tstp": 1666112150.3267498,
         "modify_username": "sarang@dagknows.com",
-        "modify_tstp": 1666112213.0463226,
+        "modify_tstp": 1667586929.4026167,
         "confirm_problem": 2,
         "confirm_problem_tstp": 1666115039.1460366,
         "confirm_problem_user": {
@@ -28,19 +28,16 @@
             "last_name": "Dharmapurikar"
         }
     },
-    "class": [
-        "selected_nodes"
-    ],
+    "class": [],
     "prevnodename": {
-        "node_func": "exec node 2"
+        "node_func": "exec node 2 test"
     },
     "evidence": "z = x + y\n_to_session = [x, y, z]\n_problem = False\nif z > x:\n    _problem = True",
     "evidtype": "Script",
     "restype": "Description",
     "related_convs": [],
     "msg": "",
-    "conv_id": "__dags",
-    "currsession": "MEv2ZCdq72LFNiki",
+    "currsession": "ZDF8wWlz9LUDq5zE",
     "comments": [
         {
             "text": "",
@@ -52,13 +49,36 @@
                 "last_name": "Dharmapurikar"
             },
             "tstp": 1666112213.0463226
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1667586892.6138923
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1667586929.4026167
         }
     ],
+    "conv_id": "__dags",
     "reasons": [],
     "parents": [
         "JNKA6OyIW9LpyDTX"
     ],
     "affects": [
-        "exec node 1 test"
+        "exec node 1"
     ]
 }

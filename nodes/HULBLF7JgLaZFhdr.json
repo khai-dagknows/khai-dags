@@ -17,7 +17,7 @@
         "create_username": "sarang@dagknows.com",
         "create_tstp": 1666112150.5752635,
         "modify_username": "sarang@dagknows.com",
-        "modify_tstp": 1667588394.249884
+        "modify_tstp": 1667588559.4830835
     },
     "class": [],
     "prevnodename": {
@@ -28,7 +28,7 @@
     "restype": "Description",
     "related_convs": [],
     "msg": "",
-    "currsession": "es7Jqk8OakyYy8b3",
+    "currsession": "fp8tQqAh73znqkO1",
     "comments": [
         {
             "text": "",
@@ -128,7 +128,36 @@
                 "last_name": "Dharmapurikar"
             },
             "tstp": 1667588394.249884
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1667588512.0094256
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1667588559.4830835
         }
     ],
-    "conv_id": "__dags"
+    "conv_id": "__dags",
+    "reasons": [],
+    "parents": [
+        "JNKA6OyIW9LpyDTX"
+    ],
+    "affects": [
+        "exec node 1"
+    ]
 }
