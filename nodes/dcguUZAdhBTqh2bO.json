@@ -1,0 +1,99 @@
+{
+    "appname": "JJSI IOS Upgrade DAG",
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1653028951.606464,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654061015.063621,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654069308.0164213,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654579854.2052286,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654579886.2689157,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654579953.726902,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        }
+    ],
+    "conv_id": "b5fDa0lb5pJD911HfH2Y8w",
+    "currsession": "oD3g52BBADs2KF4L",
+    "description": "<p><br></p>",
+    "evidence": "if device_family != \"3K\" or device_family != \"9K\":\n    _problem = False\n    try:\n        cmd=\"dir flash: | in {}\".format(device_rommon_image)\n        out = _netbot(device_ip_address,cmd)\n        if out:\n            _problem = False\n        else:\n            _problem = True\n    except Exception as e:\n        _problem = True",
+    "evidtype": "Script",
+    "msg": "",
+    "node_id": "dcguUZAdhBTqh2bO",
+    "nodename": {
+        "input_params": {
+            "device_family": "device_family",
+            "device_ip_address": "device_ip_address",
+            "device_rommon_image": "device_rommon_image"
+        },
+        "node_func": "JJSI ROMMON Image check"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "JJSI ROMMON Image check"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1664388391.50907,
+        "create_username": "info@dagknows.com"
+    }
+}
