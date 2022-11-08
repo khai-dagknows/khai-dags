@@ -73,5 +73,12 @@
             "tstp": 1667586929.4026167
         }
     ],
-    "conv_id": "__dags"
+    "conv_id": "__dags",
+    "reasons": [],
+    "parents": [
+        "JNKA6OyIW9LpyDTX"
+    ],
+    "affects": [
+        "exec node 1 test"
+    ]
 }
