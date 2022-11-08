@@ -1,0 +1,129 @@
+{
+    "appname": "Application unreachable 12/06/2021",
+    "class": [
+        "regular_node"
+    ],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1620103630.7023869,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620103700.6562312,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620103745.9957132,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620103812.6625795,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1630302007.9554322,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagknowsSys",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar777@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1630377501.4254773,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagknowsSys",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar777@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1636949823.834218,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "HweH6EYF12bEDI9dj5_IWw",
+    "currsession": "GPynQKaeGuIOzK70",
+    "description": "<p><br></p>",
+    "evidence": "cmd = 'kubectl get nodes -o wide | grep -v \"master\\|VERSION\"'\nop = _exe(master_ip, cmd)\nlines = op.split('\\n')\n\n_problem = False\nfor line in lines:\n    if line and ('ready' not in line.lower()):\n        _problem = True\n",
+    "evidtype": "Script",
+    "msg": "",
+    "nodename": {
+        "input_params": {
+            "master_ip": "master_ip"
+        },
+        "node_func": "cluster nodes not ready"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "cluster went down"
+    },
+    "privacy_level": "internal",
+    "related_convs": [
+        [
+            "TLZAmf9cejfHVF-sVaVC1g",
+            "DagKnows went down"
+        ],
+        [
+            "OwgUc5Go9RLVyn_jkWXqGQ",
+            "__temp"
+        ],
+        [
+            "jOPhjezGbJJvvCFY-qHZyA",
+            "[Jira issue: DAG-229] application went down"
+        ],
+        [
+            "laCDNHQqj1z00zqgGOg7Qg",
+            "[Servicenow issue: INC0010069] App not responding"
+        ]
+    ],
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "node_id": "idWykr8BlyGXGpbu",
+    "metadata": {
+        "create_tstp": 1662428424.4061153,
+        "create_username": "info@dagknows.com"
+    }
+}

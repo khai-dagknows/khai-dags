@@ -1,0 +1,170 @@
+{
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1620175171.0088165,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620339599.1090708,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620340349.6861668,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620340392.5438762,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1628025217.122526,
+            "user_info": {
+                "first_name": "info",
+                "last_name": "ec2",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "info+ec2@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1634842893.0217502,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1638653520.7265172,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1641594047.7095714,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1641594079.5602615,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "_0himABS45BAxEsYjSVM8g",
+    "currsession": "Y8bjYtNyh7PzvsSe",
+    "description": "<p>Application is not reachable. Getting a timeout. Says this site can't be reached. Error code: <span style=\"color: rgb(95, 99, 104);\">ERR_CONNECTION_TIMED_OUT</span></p><p>It clearly timed out.</p>",
+    "evidence": "",
+    "evidtype": "Script",
+    "msg": "",
+    "nodename": {
+        "input_params": {
+            "master_ip": "master_ip"
+        },
+        "node_func": "Application unreachable"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Application unreachable again"
+    },
+    "privacy_level": "internal",
+    "related_convs": [
+        [
+            "TLZAmf9cejfHVF-sVaVC1g",
+            "DagKnows went down"
+        ],
+        [
+            "zendesk__4",
+            "Server went down (Zendesk ticket: 4)"
+        ],
+        [
+            "koSr8wbbg7x81OePzMpD1Q",
+            "[Jira issue: DAG-206] App not responding"
+        ],
+        [
+            "jOPhjezGbJJvvCFY-qHZyA",
+            "[Jira issue: DAG-229] application went down"
+        ],
+        [
+            "Zg6huhLH2HjFZvELj6O3Cw",
+            "[Jira issue: DAG-241] App not responding"
+        ],
+        [
+            "salesforce__5004P00001jGhvDQAS",
+            "App not working"
+        ],
+        [
+            "HFFDSiPjQbKDqR6Fmspqzw",
+            "test"
+        ],
+        [
+            "laCDNHQqj1z00zqgGOg7Qg",
+            "[Servicenow issue: INC0010069] App not responding"
+        ],
+        [
+            "n_OdSX-CnnHcJDJ0696V8Q",
+            "[Jira issue: DAG-272] App is not responding"
+        ]
+    ],
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {
+        "env": "Kubernetes, k8s"
+    },
+    "class": [],
+    "node_id": "u9uhkt94mIsRT9Mu",
+    "metadata": {
+        "create_tstp": 1662428424.407609,
+        "create_username": "info@dagknows.com"
+    }
+}
