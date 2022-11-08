@@ -1,0 +1,67 @@
+{
+    "appname": "Application unreachable 12/06/2021",
+    "class": [
+        "regular_node"
+    ],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1636949891.447008,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1636950171.019967,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1636950424.053831,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "HweH6EYF12bEDI9dj5_IWw",
+    "currsession": "GPynQKaeGuIOzK70",
+    "description": "<p><br></p>",
+    "evidence": "op = _exe(master_ip, \"kubectl get nodes\")\nm = re.match(r'The connection to the server .* was refused - did you specify the right host or port?', op)\n_problem = False\nif m:\n    _problem = True\n",
+    "evidtype": "Script",
+    "msg": "",
+    "nodename": {
+        "input_params": {
+            "master_ip": "master_ip"
+        },
+        "node_func": "Unable to run kubectl"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Unable to run kubectl"
+    },
+    "privacy_level": "private",
+    "related_convs": [],
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "node_id": "mWvNV5XNrXXbMjOd",
+    "metadata": {
+        "create_tstp": 1662428424.4061558,
+        "create_username": "info@dagknows.com"
+    }
+}

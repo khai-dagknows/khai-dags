@@ -1,0 +1,66 @@
+{
+    "appname": "JJSI IOS Upgrade DAG",
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1653029093.1623213,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654061291.936539,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1654579071.2147663,
+            "user_info": {
+                "first_name": "Gaurav",
+                "last_name": "Pandey",
+                "org": "hcllab",
+                "role": "Admin",
+                "uname": "gauravp@hcl.com"
+            }
+        }
+    ],
+    "conv_id": "b5fDa0lb5pJD911HfH2Y8w",
+    "currsession": "jrJ274u4A761XJLe",
+    "description": "<p><br></p>",
+    "evidence": "import re\n_problem = False\ntry:\n    file_size_bytes = int(device_bootflash_memory_required_in_mb) * 1000000\n    cmd='dir flash: | i total'\n    get_space=_netbot(device_ip_address,cmd)\n    re_xpr= re.compile('\\d+ bytes free')\n    free_space = re_xpr.findall(get_space)\n    tmp = free_space[0].replace(\"bytes free\",\"\")\n    avail_size = int(tmp)\n    if file_size_bytes < avail_size:\n        _problem = False           \n    else:\n        _problem = True \nexcept Exception as e:\n    _problem = True  ",
+    "evidtype": "Script",
+    "msg": "",
+    "node_id": "jKjmKfsr2TeL8nLf",
+    "nodename": {
+        "input_params": {
+            "device_bootflash_memory_required_in_mb": "device_bootflash_memory_required_in_mb",
+            "device_family": "device_family",
+            "device_ip_address": "device_ip_address"
+        },
+        "node_func": "JJSI Node does not have required Disk size to copy new image"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "JJSI Node does not have required Disk size to copy new image"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1664388391.5090792,
+        "create_username": "info@dagknows.com"
+    }
+}

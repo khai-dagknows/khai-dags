@@ -1,0 +1,52 @@
+{
+    "nodetype": "Problem",
+    "nodename": {
+        "node_func": "khai test memory 2"
+    },
+    "prevnodename": {
+        "node_func": "khai test memory 2"
+    },
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "description": "<p><br></p>",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "privacy_level": "internal",
+    "related_convs": [],
+    "msg": "",
+    "currsession": "PO9Mvy3e1rJwHrYp",
+    "metadata": {
+        "create_username": "sarang@dagknows.com",
+        "create_tstp": 1663956556.0251017,
+        "modify_username": "sarang@dagknows.com",
+        "modify_tstp": 1663956631.926753
+    },
+    "node_id": "BvF1RnYrSy2tnVwm",
+    "comments": [
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1663956556.0251017
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1663956631.926753
+        }
+    ],
+    "class": [],
+    "conv_id": "__dags"
+}

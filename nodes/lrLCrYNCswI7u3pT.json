@@ -1,0 +1,338 @@
+{
+    "appname": "Application unreachable 12/06/2021",
+    "class": [
+        "regular_node"
+    ],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1595606522.0868711,
+            "user_info": {
+                "first_name": "Eng",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Techrep",
+                "uname": "sarang+support@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1595634743.514936,
+            "user_info": {
+                "first_name": "Eng",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Techrep",
+                "uname": "sarang+support@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1595635092.1058896,
+            "user_info": {
+                "first_name": "Eng",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Techrep",
+                "uname": "sarang+support@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1603735368.5903106,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1617922469.4388726,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1617927557.2853322,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1617987277.782888,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1617987321.2992115,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620104668.4979472,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620170727.9707212,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620170980.664132,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620179347.5388513,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620179421.2163174,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620187408.6243434,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620187601.847374,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620187676.3176944,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620338592.5157075,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1620339047.3262458,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1626719727.005443,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1626719903.8798711,
+            "user_info": {
+                "first_name": "SME",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1629260851.4505856,
+            "user_info": {
+                "first_name": "SRE",
+                "last_name": "Sarang",
+                "org": "ec2",
+                "role": "Admin",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1629955236.9559689,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagknowsSys",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar777@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1631117416.1196206,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagknowsSys",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar777@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1632284721.4520438,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagknowsSys",
+                "role": "Admin",
+                "uname": "sarangdharmapurikar777@gmail.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1633124750.3045204,
+            "user_info": {
+                "first_name": "SRE",
+                "last_name": "SRE",
+                "org": "DagknowsSys",
+                "role": "Admin",
+                "uname": "sarang+sre@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "HOWJMwiAnWCtJkMhwsYbLg",
+    "currsession": "ZvXXZ9rV0Ripup5o",
+    "description": "<p><br></p>",
+    "evidence": "import json\n\nfor instance_id in instance_ids:\n    _problem = True\n\n    cmd = 'aws ec2 describe-instances --filter Name=instance-id,Values='\n    cmd+= instance_id \n    cmd+= ' --query Reservations[*].Instances[*].SecurityGroups[*].GroupId --output=text'\n\n    sg_ids1 = _exe(None, cmd)\n    sg_ids = re.split('\\s',sg_ids1)\n\n    if sg_ids:\n        for sg_id in sg_ids:\n            if not sg_id:\n                continue\n            cmd1 = 'aws ec2 describe-security-groups --filter Name=group-id,Values='\n            cmd1+= sg_id \n            cmd1+= ' --query SecurityGroups[*].IpPermissions[*]'\n\n            op = _exe(None, cmd1)\n            json_op = json.loads(op)\n\n            for sg in json_op:\n                for rule in sg:\n                    if 'FromPort' in rule:\n                        port_lo = int(rule['FromPort'])\n                        port_hi = port_lo\n                        if 'ToPort' in rule:\n                            port_hi = int(rule['ToPort'])\n                        if port >= port_lo and port <= port_hi:\n                            _problem = False\n                    else:\n                        continue\n    if _problem:\n        break\n",
+    "evidtype": "Script",
+    "msg": "",
+    "nodename": {
+        "input_params": {
+            "instance_ids": "instance_ids",
+            "port": "port"
+        },
+        "node_func": "IPv4 security group blocking connection"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "IPv4 security group blocking connection"
+    },
+    "privacy_level": "internal",
+    "related_convs": [
+        [
+            "Gump0SVhtRRXT4LOTV6kSw",
+            "test2"
+        ],
+        [
+            "yAr-zF8Yv9aNXxa-_e6pig",
+            "test"
+        ],
+        [
+            "rRXhBErYk7x8tUXeoaEjpA",
+            "app not responding"
+        ],
+        [
+            "mlB5SVo8E4rooOwuHlNEaA",
+            "App not responding"
+        ],
+        [
+            "salesforce__5004P00001jGhvDQAS",
+            "App not working"
+        ],
+        [
+            "HFFDSiPjQbKDqR6Fmspqzw",
+            "test"
+        ]
+    ],
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {
+        "_dag": "Connectivity"
+    },
+    "node_id": "lrLCrYNCswI7u3pT",
+    "metadata": {
+        "create_tstp": 1662428424.4072156,
+        "create_username": "info@dagknows.com"
+    }
+}
