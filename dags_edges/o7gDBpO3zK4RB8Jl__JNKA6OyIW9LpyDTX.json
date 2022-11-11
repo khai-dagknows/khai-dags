@@ -6,16 +6,14 @@
                 "input_params": {
                     "y": "y",
                     "x": "x"
-                },
-                "output_params": {}
+                }
             },
             {
                 "node_id": "HULBLF7JgLaZFhdr",
                 "input_params": {
                     "y": "y",
                     "x": "x"
-                },
-                "output_params": {}
+                }
             }
         ],
         "parents": []
