@@ -1,13 +1,13 @@
 {
     "nodetype": "Problem",
     "nodename": {
-        "node_func": "exec node 1 test",
+        "node_func": "exec node 1",
         "input_params": {
             "x": "x"
         }
     },
     "prevnodename": {
-        "node_func": "exec node 1"
+        "node_func": "exec node 1 test"
     },
     "evidence": "y = x + 5\n_to_session = y\n_problem = False\nif y > 6:\n    _problem = True\n",
     "evidtype": "Script",
@@ -18,7 +18,7 @@
     "privacy_level": "internal",
     "related_convs": [],
     "msg": "",
-    "currsession": "Hl9URGrx5zOSD8xg",
+    "currsession": "80b7ZbTYSnGK9eYb",
     "metadata": {
         "create_username": "sarang@dagknows.com",
         "create_tstp": 1666112150.102609,
@@ -32,7 +32,7 @@
             "last_name": "Dharmapurikar"
         },
         "modify_username": "sarang@dagknows.com",
-        "modify_tstp": 1668189145.0010235
+        "modify_tstp": 1668189910.9998763
     },
     "node_id": "JNKA6OyIW9LpyDTX",
     "comments": [
@@ -134,6 +134,17 @@
                 "last_name": "Dharmapurikar"
             },
             "tstp": 1668189145.0010235
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1668189910.9998763
         }
     ],
     "class": [],
