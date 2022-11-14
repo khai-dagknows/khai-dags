@@ -1,13 +1,13 @@
 {
     "nodetype": "Problem",
     "nodename": {
-        "node_func": "exec node 1 test",
+        "node_func": "exec node 1",
         "input_params": {
             "x": "x"
         }
     },
     "prevnodename": {
-        "node_func": "exec node 1"
+        "node_func": "exec node 1 test"
     },
     "evidence": "y = x + 5\n_to_session = y\n_problem = False\nif y > 6:\n    _problem = True\n",
     "evidtype": "Script",
@@ -32,7 +32,7 @@
             "last_name": "Dharmapurikar"
         },
         "modify_username": "sarang@dagknows.com",
-        "modify_tstp": 1668406324.196516
+        "modify_tstp": 1668406406.0675101
     },
     "node_id": "JNKA6OyIW9LpyDTX",
     "comments": [
@@ -255,30 +255,22 @@
                 "last_name": "Dharmapurikar"
             },
             "tstp": 1668406324.196516
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar"
+            },
+            "tstp": 1668406406.0675101
         }
     ],
     "class": [],
     "conv_id": "__dags",
-    "reasons": [
-        {
-            "reason_node_id": "eqdXLEJsaqDZgFyF",
-            "reason_func": "exec node 2",
-            "reason_input_params": {
-                "y": "y",
-                "x": "x"
-            },
-            "reason_output_params": {}
-        },
-        {
-            "reason_node_id": "HULBLF7JgLaZFhdr",
-            "reason_func": "exec node 3",
-            "reason_input_params": {
-                "y": "y",
-                "x": "x"
-            },
-            "reason_output_params": {}
-        }
-    ],
+    "reasons": [],
     "parents": [],
     "affects": []
 }
