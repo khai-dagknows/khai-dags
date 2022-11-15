@@ -158,6 +158,6 @@
         "JNKA6OyIW9LpyDTX"
     ],
     "affects": [
-        "exec node 1 test 2"
+        "exec node 1"
     ]
 }
