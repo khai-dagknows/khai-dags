@@ -1,13 +1,13 @@
 {
     "nodetype": "Problem",
     "nodename": {
-        "node_func": "exec node 1 test",
+        "node_func": "exec node 1",
         "input_params": {
             "x": "x"
         }
     },
     "prevnodename": {
-        "node_func": "exec node 1"
+        "node_func": "exec node 1 test"
     },
     "evidence": "y = x + 5\n_to_session = y\n_problem = False\nif y > 6:\n    _problem = True\n",
     "evidtype": "Script",
@@ -18,7 +18,7 @@
     "privacy_level": "internal",
     "related_convs": [],
     "msg": "",
-    "currsession": "J5SYk8f2fpweUXvz",
+    "currsession": "o4sz0vTfHWVWWdB4",
     "metadata": {
         "create_username": "sarang@dagknows.com",
         "create_tstp": 1666112150.102609,
@@ -32,7 +32,7 @@
             "last_name": "Dharmapurikar"
         },
         "modify_username": "sarang@dagknows.com",
-        "modify_tstp": 1668449211.8080468
+        "modify_tstp": 1668472050.776864
     },
     "node_id": "JNKA6OyIW9LpyDTX",
     "comments": [
@@ -276,12 +276,33 @@
                 "first_name": "Sarang",
                 "last_name": "Dharmapurikar"
             },
-            "tstp": 1668449211.8080468
+            "tstp": 1668472050.776864
         }
     ],
     "class": [
-        "executed",
-        "confirm_problem"
+        "selected_nodes"
     ],
-    "conv_id": "wPgUkCOVNlJY6exqasFcrQ"
+    "conv_id": "wPgUkCOVNlJY6exqasFcrQ",
+    "reasons": [
+        {
+            "reason_node_id": "eqdXLEJsaqDZgFyF",
+            "reason_func": "exec node 2",
+            "reason_input_params": {
+                "y": "y",
+                "x": "x"
+            },
+            "reason_output_params": {}
+        },
+        {
+            "reason_node_id": "HULBLF7JgLaZFhdr",
+            "reason_func": "exec node 3",
+            "reason_input_params": {
+                "y": "y",
+                "x": "x"
+            },
+            "reason_output_params": {}
+        }
+    ],
+    "parents": [],
+    "affects": []
 }
