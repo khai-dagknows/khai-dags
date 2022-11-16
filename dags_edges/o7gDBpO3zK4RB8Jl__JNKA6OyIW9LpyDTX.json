@@ -12,9 +12,10 @@
             {
                 "node_id": "HULBLF7JgLaZFhdr",
                 "input_params": {
-                    "x": "x",
-                    "y": "y"
-                }
+                    "y": "y",
+                    "x": "x"
+                },
+                "output_params": {}
             }
         ],
         "parents": []
