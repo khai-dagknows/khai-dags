@@ -78,12 +78,5 @@
     "tags": {},
     "class": [
         "regular_node"
-    ],
-    "reasons": [],
-    "parents": [
-        "gguCkn0BMu3WpXsmJkGp"
-    ],
-    "affects": [
-        "check: app stopped responding"
     ]
 }

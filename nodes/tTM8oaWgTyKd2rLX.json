@@ -48,8 +48,5 @@
         }
     ],
     "class": [],
-    "conv_id": "__dags",
-    "reasons": [],
-    "parents": [],
-    "affects": []
+    "conv_id": "__dags"
 }
