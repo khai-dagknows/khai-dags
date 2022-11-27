@@ -1,0 +1,38 @@
+{
+    "nodetype": "Problem",
+    "nodename": {
+        "node_func": "Khai test delete node 112722h"
+    },
+    "prevnodename": {
+        "node_func": ""
+    },
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "description": "<p><br></p>",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "tags": {},
+    "privacy_level": "internal",
+    "related_convs": [],
+    "msg": "",
+    "conv_id": "__dags",
+    "currsession": "hso7ljEwb2FqKv4F",
+    "metadata": {
+        "create_username": "sarang@dagknows.com",
+        "create_tstp": 1669589526.8974483
+    },
+    "node_id": "NGZthEic460G7wHbh76uaafNOXYIMZiF",
+    "comments": [
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Khai",
+                "last_name": "DoanS"
+            },
+            "tstp": 1669589526.8974483
+        }
+    ]
+}
