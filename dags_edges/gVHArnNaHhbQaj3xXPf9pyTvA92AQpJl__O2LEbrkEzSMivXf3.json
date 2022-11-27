@@ -1,0 +1,20 @@
+{
+    "dag_edges": {
+        "children": [
+            {
+                "node_id": "v2D06BRHVOhWTHju",
+                "input_params": {},
+                "output_params": {}
+            },
+            {
+                "node_id": "G4MTijJzTVU37mjK",
+                "input_params": {
+                    "master_ip": "master_ip",
+                    "pods": "['frontend', 'dagknowsys', 'nlp', 'elasticsearch', 'postgres']"
+                },
+                "output_params": {}
+            }
+        ],
+        "parents": []
+    }
+}

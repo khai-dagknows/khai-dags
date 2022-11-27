@@ -1,7 +1,7 @@
 {
     "nodetype": "Problem",
     "nodename": {
-        "node_func": "exec node 1",
+        "node_func": "Copy of: exec node 1",
         "input_params": {
             "x": "x"
         }
@@ -21,7 +21,7 @@
     "currsession": "FIGW3jJlLkXuMKoq",
     "metadata": {
         "create_username": "sarang@dagknows.com",
-        "create_tstp": 1666112150.102609,
+        "create_tstp": 1669066471.435085,
         "confirm_problem": 2,
         "confirm_problem_tstp": 1666115038.8334346,
         "confirm_problem_user": {
@@ -31,10 +31,10 @@
             "first_name": "Sarang",
             "last_name": "Dharmapurikar"
         },
-        "modify_username": "sarang@dagknows.com",
-        "modify_tstp": 1668487114.6134381
+        "orig_create_username": "sarang@dagknows.com",
+        "orig_create_tstp": 1666112150.102609
     },
-    "node_id": "JNKA6OyIW9LpyDTX",
+    "node_id": "sBjsElI6Gb5t0XKhMRJR1LInHSPGgDKN",
     "comments": [
         {
             "text": "",

@@ -1,0 +1,14 @@
+{
+    "create_user": {
+        "uname": "sarang@dagknows.com",
+        "org": "DagKnows",
+        "role": "Supremo",
+        "first_name": "Khai",
+        "last_name": "DoanS"
+    },
+    "modify_user": {},
+    "create_tstp": 1669181180.4921196,
+    "dag_title": "Test copy items from the session screen",
+    "dag_description": "<p><br></p>",
+    "dag_id": "f7b2FqaJZnJMvldgpLpPnVpPIbrhYW2u"
+}

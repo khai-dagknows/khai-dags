@@ -1,0 +1,14 @@
+{
+    "create_user": {
+        "uname": "sarang@dagknows.com",
+        "org": "DagKnows",
+        "role": "Supremo",
+        "first_name": "Khai",
+        "last_name": "DoanS"
+    },
+    "modify_user": {},
+    "create_tstp": 1669153548.2946978,
+    "dag_title": "Khai test copy items 3",
+    "dag_description": "<p><br></p>",
+    "dag_id": "MZj8r3LdbaJ1dKtMCd2uOqgC1rn1zbZR"
+}
