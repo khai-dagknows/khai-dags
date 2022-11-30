@@ -2,7 +2,7 @@
     "node_id": "HULBLF7JgLaZFhdr",
     "nodetype": "Problem",
     "nodename": {
-        "node_func": "exec node 3",
+        "node_func": "exec node 3 test",
         "input_params": {
             "x": "x",
             "y": "y"
@@ -17,18 +17,22 @@
         "create_username": "sarang@dagknows.com",
         "create_tstp": 1666112150.5752635,
         "modify_username": "sarang@dagknows.com",
-        "modify_tstp": 1667588559.4830835
+        "modify_tstp": 1669794048.1753998,
+        "read_count": 1
     },
-    "class": [],
+    "class": [
+        "regular_node",
+        "selected_nodes"
+    ],
     "prevnodename": {
-        "node_func": "exec node 3 test"
+        "node_func": "exec node 3"
     },
     "evidence": "w = x - y\n_to_session = [x, y, w]\n_problem = False",
     "evidtype": "Script",
     "restype": "Description",
     "related_convs": [],
     "msg": "",
-    "currsession": "fp8tQqAh73znqkO1",
+    "currsession": "ZbwPP5FjVcSkZmfB",
     "comments": [
         {
             "text": "",
@@ -150,14 +154,21 @@
                 "last_name": "Dharmapurikar"
             },
             "tstp": 1667588559.4830835
+        },
+        {
+            "text": "",
+            "user_info": {
+                "uname": "sarang@dagknows.com",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "first_name": "Khai",
+                "last_name": "DoanS"
+            },
+            "tstp": 1669794048.1753998
         }
     ],
-    "conv_id": "__dags",
+    "conv_id": "suh4re3xQse6VqnP14DRiA",
     "reasons": [],
-    "parents": [
-        "JNKA6OyIW9LpyDTX"
-    ],
-    "affects": [
-        "exec node 1"
-    ]
+    "parents": [],
+    "affects": []
 }
