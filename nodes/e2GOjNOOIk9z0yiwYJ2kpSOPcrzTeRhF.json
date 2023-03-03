@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "e2GOjNOOIk9z0yiwYJ2kpSOPcrzTeRhF",
+    "nodename": {
+        "node_func": "There is an issue with the scheduler"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958614,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "WY0XzVL9gWXo8G2KAcV8NfLw0zW7wwJ5"
+    ],
+    "affects": [
+        "NO the pod is not assigned to a node"
+    ]
+}

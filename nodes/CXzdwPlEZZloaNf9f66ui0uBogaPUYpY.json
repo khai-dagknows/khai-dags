@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "CXzdwPlEZZloaNf9f66ui0uBogaPUYpY",
+    "nodename": {
+        "node_func": "There is an issue with Kubelet"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958605,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "Wz8Niirs31qNZ5FmTZ8X0FkSZireXCbG"
+    ],
+    "affects": [
+        "YES the pod is assigned to a node"
+    ]
+}

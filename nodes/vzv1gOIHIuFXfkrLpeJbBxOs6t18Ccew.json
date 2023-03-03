@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "vzv1gOIHIuFXfkrLpeJbBxOs6t18Ccew",
+    "nodename": {
+        "node_func": "NO the pod status is not CrashLoopBackOff"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958874,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "OVjVLVHRZCqhxvaP8pHxY2wrPLWvePjP"
+    ],
+    "affects": [
+        "Is the pod status CrashLoopBackOff?"
+    ]
+}

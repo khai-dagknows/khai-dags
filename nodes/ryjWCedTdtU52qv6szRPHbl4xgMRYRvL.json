@@ -1,0 +1,69 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674462674.46515,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674462705.3696,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "ryjWCedTdtU52qv6szRPHbl4xgMRYRvL",
+    "nodename": {
+        "node_func": "Is the pod status ImagePullBackOff?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Is the pod status ImagePullBackOff?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958683,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "DbJtBKYhAyTKrYeQCgO65k6vdlo0t3tr",
+            "reason_func": "YES the pod status is ImagePullBackOff",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "EYjLx0DHmhN8gPut2d3BYIEDEwbv6KYx",
+            "reason_func": "NO the pod status is not ImagePullBackOff",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "wWDy7FWwsrtUwlIPKc1E4kdSAQ0oA9L1"
+    ],
+    "affects": [
+        "Describe the non-RUNNING pods"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674433295.76982,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "ZsQvl2DYASmAoj6K",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "ci1neZi5waPpluAJ6sP1qclXJglaCgMV",
+    "nodename": {
+        "node_func": "Can you see a list of backends?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Can you see a list of backends?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958202,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "u1jka3RVdvH9DYDAdKi2BUnEQshFUMJR",
+            "reason_func": "YES can see a list of backends",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "yUgY96xOPDcfNvgU6a9WSy8Zp9LXFUF9",
+            "reason_func": "NO can't see a list of backends",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "dmEh4dK2NhxH1PkJSDvtLjl5vM9oGAR0"
+    ],
+    "affects": [
+        "Describe ingress"
+    ]
+}

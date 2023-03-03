@@ -1,0 +1,52 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674462994.79094,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "YtoPTdVmurdjcjnAWyFBC5hHCfwXV9w2",
+    "nodename": {
+        "node_func": "YES pulling image from a private registry"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "YES pulling image from a private registry"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958815,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "FL7ZCMtDU9txYiFeSKoL8samnuhDY126",
+            "reason_func": "Check the authentication and authorization to pull images from a private registry"
+        }
+    ],
+    "parents": [
+        "NWG2xMZW5hpEdGP8dnYmMkvhabBQpEwt"
+    ],
+    "affects": [
+        "Are you pulling image from a private registry?"
+    ]
+}

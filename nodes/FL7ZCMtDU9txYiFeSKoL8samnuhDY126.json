@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "FL7ZCMtDU9txYiFeSKoL8samnuhDY126",
+    "nodename": {
+        "node_func": "Check the authentication and authorization to pull images from a private registry"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958836,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "YtoPTdVmurdjcjnAWyFBC5hHCfwXV9w2"
+    ],
+    "affects": [
+        "YES pulling image from a private registry"
+    ]
+}

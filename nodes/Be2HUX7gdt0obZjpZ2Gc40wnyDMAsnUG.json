@@ -1,0 +1,58 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674411272.50531,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "1UvsajNWGPSmx9PP",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "Be2HUX7gdt0obZjpZ2Gc40wnyDMAsnUG",
+    "nodename": {
+        "node_func": "Are all the pods READY?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Are all the pods READY?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5955966,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "Y49upN4XU2NbdPHRhzEzeHz3sQrkF6iW",
+            "reason_func": "YES all the pods are READY",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "HACCpSOQbpMDRbTov6589Z1m9g0fgMKR",
+            "reason_func": "NO all the pods are not READY",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "r84jHfGRFcLApobs4NaTnZtee17Av8WQ"
+    ],
+    "affects": [
+        "YES all the pods are RUNNING"
+    ]
+}

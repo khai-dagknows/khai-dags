@@ -1,0 +1,52 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674462486.41827,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "Y9lQSWco7X5ngsWPzUACke4B9XySzDwq",
+    "nodename": {
+        "node_func": "YES can see the logs of the app"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "YES can see the logs of the app"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595864,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "nkZC61Q7xy2J5P2WwF0t9Ht7tmXGW8Ib",
+            "reason_func": "Fix the issue with the app"
+        }
+    ],
+    "parents": [
+        "ydr2TPMaSwNceuRLFB5XF5mShfHUlv2i"
+    ],
+    "affects": [
+        "Can you see the logs for the app?"
+    ]
+}

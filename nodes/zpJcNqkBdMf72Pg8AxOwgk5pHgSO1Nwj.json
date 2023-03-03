@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "zpJcNqkBdMf72Pg8AxOwgk5pHgSO1Nwj",
+    "nodename": {
+        "node_func": "Fix the image tag"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958798,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "t3OO4X6G1MlWaXcmTSD866dIBIk1a7b7"
+    ],
+    "affects": [
+        "NO the image tag is not valid or it does not exist"
+    ]
+}

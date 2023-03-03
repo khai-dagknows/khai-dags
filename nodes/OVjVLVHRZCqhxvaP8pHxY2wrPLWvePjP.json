@@ -1,0 +1,56 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674463108.74099,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "OVjVLVHRZCqhxvaP8pHxY2wrPLWvePjP",
+    "nodename": {
+        "node_func": "Is the pod status CrashLoopBackOff?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Is the pod status CrashLoopBackOff?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958853,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "FZ0nyAKIemJZp1cQ5pUOJTjBlmcJBPER",
+            "reason_func": "YES the pod status is CrashLoopBackOff"
+        },
+        {
+            "reason_node_id": "vzv1gOIHIuFXfkrLpeJbBxOs6t18Ccew",
+            "reason_func": "NO the pod status is not CrashLoopBackOff"
+        }
+    ],
+    "parents": [
+        "EYjLx0DHmhN8gPut2d3BYIEDEwbv6KYx"
+    ],
+    "affects": [
+        "NO the pod status is not ImagePullBackOff"
+    ]
+}

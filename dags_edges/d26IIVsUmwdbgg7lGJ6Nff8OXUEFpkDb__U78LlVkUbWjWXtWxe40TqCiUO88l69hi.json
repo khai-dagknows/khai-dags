@@ -1,0 +1,19 @@
+{
+    "dag_edges": {
+        "children": [
+            {
+                "node_id": "AsMEfc6Ry18cztoOjMNNI3yPfyZpf4of",
+                "input_params": {}
+            },
+            {
+                "node_id": "cSECuBR0KEvLbXqChjJHudYF3wKX3HdP",
+                "input_params": {}
+            }
+        ],
+        "parents": [
+            {
+                "node_id": "WGTTLnXD8StgAQ0sCt0t0aaPTl72xyuL"
+            }
+        ]
+    }
+}

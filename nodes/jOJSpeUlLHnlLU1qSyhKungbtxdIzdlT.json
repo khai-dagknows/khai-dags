@@ -1,0 +1,52 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674433672.56232,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "ZsQvl2DYASmAoj6K",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "jOJSpeUlLHnlLU1qSyhKungbtxdIzdlT",
+    "nodename": {
+        "node_func": "YES the serviceName and servicePort are matching the service"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "YES the serviceName and servicePort are matching the service"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958264,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "rGvfTT4sSfpbGujpQXc9HR1ub0XiGBWA",
+            "reason_func": "Execute the ingress controller troubleshooting DAG"
+        }
+    ],
+    "parents": [
+        "Zz2LDmfnNq4YYM5TVdB2nOnIkNTH4VhZ"
+    ],
+    "affects": [
+        "Are the serviceName and servicePort matching the service?"
+    ]
+}

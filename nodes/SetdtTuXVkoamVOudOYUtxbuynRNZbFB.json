@@ -1,0 +1,71 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674410848.61714,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674411069.95772,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "1UvsajNWGPSmx9PP",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "SetdtTuXVkoamVOudOYUtxbuynRNZbFB",
+    "nodename": {
+        "node_func": "Are there any PENDING pods?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Is there any PENDING pod?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5955718,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "h2Pgnrilo6PRIEWxbtJi3G9LWev3tIBK",
+            "reason_func": "YES there are PENDING pods",
+            "reason_input_params": {},
+            "reason_output_params": {}
+        },
+        {
+            "reason_node_id": "YjZPFp1ppnduiPt0jfHNhmFi8nlEVFUU",
+            "reason_func": "NO there aren't any PENDING pods",
+            "reason_input_params": {},
+            "reason_output_params": {}
+        }
+    ],
+    "parents": [
+        "zw5TAkN1Zq6EfCl29ExefIRUlOrTkFTx"
+    ],
+    "affects": [
+        "Get the status of pods"
+    ]
+}

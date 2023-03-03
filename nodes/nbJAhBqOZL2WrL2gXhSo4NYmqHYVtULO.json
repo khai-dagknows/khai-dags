@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "nbJAhBqOZL2WrL2gXhSo4NYmqHYVtULO",
+    "nodename": {
+        "node_func": "Fix the service selector. It has to match the pod labels."
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5956473,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "e3TFkrlcZIi7manz3DaN1zMNgDDDtVqh"
+    ],
+    "affects": [
+        "NO the selector is not matching right pod label"
+    ]
+}

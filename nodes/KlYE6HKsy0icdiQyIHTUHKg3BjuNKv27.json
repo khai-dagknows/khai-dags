@@ -1,0 +1,53 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674461939.61605,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "KlYE6HKsy0icdiQyIHTUHKg3BjuNKv27",
+    "nodename": {
+        "node_func": "NO not mounting a PENDING persistentVolumeClaim"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "NO not mounting a PENDING persistentVolumeClaim"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595854,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "JVXvK0cJXs3gpDhSGZl9pyQT8suu9ZLL",
+            "reason_func": "Get more info on the pod",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "jtx6xe73ePCZl5lFS4P0YSdJQdoO9Lze"
+    ],
+    "affects": [
+        "Are you mounting a PENDING persistentVolumeClaim?"
+    ]
+}

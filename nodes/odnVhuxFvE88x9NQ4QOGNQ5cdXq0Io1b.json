@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "odnVhuxFvE88x9NQ4QOGNQ5cdXq0Io1b",
+    "nodename": {
+        "node_func": "The issue is likely to be with the infrastructure and how the cluster is exposed"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595841,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "AhDAnPJJares5uoZpdE1WsKzmP2I6FIp"
+    ],
+    "affects": [
+        "NO can't visit the app from the public Internet"
+    ]
+}

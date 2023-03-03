@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "nkZC61Q7xy2J5P2WwF0t9Ht7tmXGW8Ib",
+    "nodename": {
+        "node_func": "Fix the issue with the app"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958664,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "Y9lQSWco7X5ngsWPzUACke4B9XySzDwq"
+    ],
+    "affects": [
+        "YES can see the logs of the app"
+    ]
+}

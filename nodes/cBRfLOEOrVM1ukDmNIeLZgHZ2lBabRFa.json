@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "cBRfLOEOrVM1ukDmNIeLZgHZ2lBabRFa",
+    "nodename": {
+        "node_func": "Provision a bigger cluster"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958464,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "AmyEBS1A8xf7okfIdVSPBXSWCSgIkyVb"
+    ],
+    "affects": [
+        "YES the cluster is full"
+    ]
+}

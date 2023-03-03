@@ -1,0 +1,53 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674433213.93175,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "ZsQvl2DYASmAoj6K",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "DuB0EJZt37Tutee7r5vFkzsOE3CNjq5I",
+    "nodename": {
+        "node_func": "YES can visit the app after port forwarding setup"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "YES can visit the app after port forwarding setup"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5956616,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "A7zl6VS8U1hHRdRw644pAmGtsFaVC4k2",
+            "reason_func": "The service is running correctly",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "HazuyuG3gxuh5TozicSixKBpqy5ZZaCX"
+    ],
+    "affects": [
+        "Can you visit the app after port forwarding?"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dag_edges": {
+        "children": [
+            {
+                "node_id": "kvsurCslyHFtIHVHm3qx552EEPsSdX23"
+            }
+        ],
+        "parents": [
+            {
+                "node_id": "ycSMG0ZyatGILzfUgYoZ2T6vfjucUCTa"
+            }
+        ]
+    }
+}

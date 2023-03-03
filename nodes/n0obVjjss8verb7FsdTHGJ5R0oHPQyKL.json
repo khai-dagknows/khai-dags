@@ -1,0 +1,52 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "Added \"Execute the ingress controller troubleshooting DAG\" as a child.",
+            "tstp": 1674461182.89964,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "n0obVjjss8verb7FsdTHGJ5R0oHPQyKL",
+    "nodename": {
+        "node_func": "NO can't visit the app after ingress port forwarding"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "NO can't visit the app after ingress port forwarding"
+    },
+    "privacy_level": "internal",
+    "res": "",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958338,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "rGvfTT4sSfpbGujpQXc9HR1ub0XiGBWA",
+            "reason_func": "Execute the ingress controller troubleshooting DAG"
+        }
+    ],
+    "parents": [
+        "Crr3aAdnh0nTGHu7Zrpdk2fDdw9Ptygt"
+    ],
+    "affects": [
+        "Can you visit the app after setting up port forwarding to the ingress pod?"
+    ]
+}

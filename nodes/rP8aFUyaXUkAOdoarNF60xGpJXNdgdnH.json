@@ -1,0 +1,82 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674412891.15551,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674412939.14523,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674412986.78462,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "PAzH3GuOmlCRKEuG",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "rP8aFUyaXUkAOdoarNF60xGpJXNdgdnH",
+    "nodename": {
+        "node_func": "Is the port exposed by the container correct and listening on 0.0.0.0?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Is the port exposed by the container correct?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.59562,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "YtVOjyJrjYLM3CpznA8ngAc2qUZhGgUJ",
+            "reason_func": "NO the port or the address in incorrect",
+            "reason_input_params": {},
+            "reason_output_params": {}
+        },
+        {
+            "reason_node_id": "mWq7kYs7KtBoGZxoAHX9kHadOHaroKnt",
+            "reason_func": "YES the port AND the address are correct",
+            "reason_input_params": {},
+            "reason_output_params": {}
+        }
+    ],
+    "parents": [
+        "ES13V3wqQ9wVK04m5YqA7n6wFOOpDFCF"
+    ],
+    "affects": [
+        "NO can't access the app"
+    ]
+}

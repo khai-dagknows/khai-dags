@@ -1,0 +1,63 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674410571.58599,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674410789.90765,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "1UvsajNWGPSmx9PP",
+    "description": "<p><br></p>",
+    "evidence": "cmd = f\"kubectl get pods -n {namespace}\"\nget_pods_op = _exe(main_host, cmd)\n_to_session = get_pods_op",
+    "evidtype": "Script",
+    "msg": "",
+    "node_id": "zw5TAkN1Zq6EfCl29ExefIRUlOrTkFTx",
+    "nodename": {
+        "input_params": {
+            "main_host": "main_host",
+            "namespace": "namespace"
+        },
+        "node_func": "Get the status of pods"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Get the status of pods"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5955665,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "SetdtTuXVkoamVOudOYUtxbuynRNZbFB",
+            "reason_func": "Are there any PENDING pods?",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [],
+    "affects": []
+}

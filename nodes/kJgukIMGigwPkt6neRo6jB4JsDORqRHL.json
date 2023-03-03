@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "kJgukIMGigwPkt6neRo6jB4JsDORqRHL",
+    "nodename": {
+        "node_func": "Fix the ingress service.name service.port.number"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.59583,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "PL5e21FuFbiEPpKVs6PVeRzOjgtairxJ"
+    ],
+    "affects": [
+        "NO the serviceName and servicePort are not matching the service"
+    ]
+}

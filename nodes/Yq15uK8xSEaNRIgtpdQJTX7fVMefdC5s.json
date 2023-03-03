@@ -1,0 +1,52 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674461703.31429,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "Yq15uK8xSEaNRIgtpdQJTX7fVMefdC5s",
+    "nodename": {
+        "node_func": "YES hitting the ResourceQuota limits"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "YES hitting the ResourceQuota limits"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595849,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "kvsurCslyHFtIHVHm3qx552EEPsSdX23",
+            "reason_func": "Relax the ResourceQuota limits"
+        }
+    ],
+    "parents": [
+        "ycSMG0ZyatGILzfUgYoZ2T6vfjucUCTa"
+    ],
+    "affects": [
+        "Are you hitting the ResourceQuota limits?"
+    ]
+}

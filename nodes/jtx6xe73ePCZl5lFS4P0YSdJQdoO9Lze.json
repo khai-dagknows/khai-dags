@@ -1,0 +1,80 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674461767.38578,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674461794.82558,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674461844.79904,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "jtx6xe73ePCZl5lFS4P0YSdJQdoO9Lze",
+    "nodename": {
+        "node_func": "Are you mounting a PENDING persistentVolumeClaim?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Are you mounting a PENDING persistentVolumeClaim?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958517,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "g5WECgZjPmkAiCZw3KtG5cNbjgX5AxqO",
+            "reason_func": "YES mounting a PENDING persistentVolumeClaim",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "KlYE6HKsy0icdiQyIHTUHKg3BjuNKv27",
+            "reason_func": "NO not mounting a PENDING persistentVolumeClaim",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "J3FBMGJ8fgUfOTTam9B35pZ9dfvCA297"
+    ],
+    "affects": [
+        "NO not hitting the ResourceQuota limits"
+    ]
+}

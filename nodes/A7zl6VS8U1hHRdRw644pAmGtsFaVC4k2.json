@@ -1,0 +1,53 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674433245.11925,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "ZsQvl2DYASmAoj6K",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "A7zl6VS8U1hHRdRw644pAmGtsFaVC4k2",
+    "nodename": {
+        "node_func": "The service is running correctly"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "The service is running correctly"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958178,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "dmEh4dK2NhxH1PkJSDvtLjl5vM9oGAR0",
+            "reason_func": "Describe ingress",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "DuB0EJZt37Tutee7r5vFkzsOE3CNjq5I"
+    ],
+    "affects": [
+        "YES can visit the app after port forwarding setup"
+    ]
+}

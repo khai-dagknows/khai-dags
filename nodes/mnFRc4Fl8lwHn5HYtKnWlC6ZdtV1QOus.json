@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "mnFRc4Fl8lwHn5HYtKnWlC6ZdtV1QOus",
+    "nodename": {
+        "node_func": "Fix the Readiness probe"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958915,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "yZ5gWx2x0JOBFFwaeXd0SGlvhnVQSGlv"
+    ],
+    "affects": [
+        "YES the Readiness probe is failing"
+    ]
+}

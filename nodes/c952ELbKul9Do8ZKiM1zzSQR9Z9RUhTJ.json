@@ -1,0 +1,57 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674488222.65295,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "9EsECanmj6fiXgKF",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "c952ELbKul9Do8ZKiM1zzSQR9Z9RUhTJ",
+    "nodename": {
+        "node_func": "Is the Readiness probe failing?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Is the Readiness probe failing?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595889,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "yZ5gWx2x0JOBFFwaeXd0SGlvhnVQSGlv",
+            "reason_func": "YES the Readiness probe is failing",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "iI6Oy4INdtWcyreUj6gjf9HBl6ptSr7Q",
+            "reason_func": "NO the Readiness probe is not failing"
+        }
+    ],
+    "parents": [
+        "DGkffv4PVwhcG0LyoYWMHKbnIoJLLfl1"
+    ],
+    "affects": [
+        "Describe non-READY pods"
+    ]
+}

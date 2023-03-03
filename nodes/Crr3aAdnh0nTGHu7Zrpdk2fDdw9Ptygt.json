@@ -1,0 +1,58 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674461108.67509,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "Crr3aAdnh0nTGHu7Zrpdk2fDdw9Ptygt",
+    "nodename": {
+        "node_func": "Can you visit the app after setting up port forwarding to the ingress pod?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Can you visit the app after setting up port forwarding to the ingress pod?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958323,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "n0obVjjss8verb7FsdTHGJ5R0oHPQyKL",
+            "reason_func": "NO can't visit the app after ingress port forwarding",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "OTz5LlkhwRwPhqS9tR5TZ6jsQ4XDlY7t",
+            "reason_func": "YES can visit the app after ingress port forwarding",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "oSnwemmTjkxQhUbXa1w7mhao5M3cEyH3"
+    ],
+    "affects": [
+        "Set up port forwarding to the ingress pod"
+    ]
+}

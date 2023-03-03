@@ -1,0 +1,64 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674411085.77267,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674461508.84545,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "h2Pgnrilo6PRIEWxbtJi3G9LWev3tIBK",
+    "nodename": {
+        "node_func": "YES there are PENDING pods"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "YES there are PENDING pods"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5955758,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "jPoxw7BAfJ84DloJ78J6B0flZdxfJDJP",
+            "reason_func": "Describe the PENDING pods",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "SetdtTuXVkoamVOudOYUtxbuynRNZbFB"
+    ],
+    "affects": [
+        "Are there any PENDING pods?"
+    ]
+}

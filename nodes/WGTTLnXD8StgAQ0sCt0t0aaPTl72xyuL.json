@@ -1,0 +1,67 @@
+{
+    "class": [
+        "regular_node"
+    ],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674418701.14416,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674418720.14821,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "UwLFr6RibizmBGVj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "WGTTLnXD8StgAQ0sCt0t0aaPTl72xyuL",
+    "nodename": {
+        "node_func": "Describe a service"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Describe services"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5956283,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "U78LlVkUbWjWXtWxe40TqCiUO88l69hi",
+            "reason_func": "Can you see a list of endpoints?",
+            "reason_input_params": {},
+            "reason_output_params": {}
+        }
+    ],
+    "parents": [
+        "C8FMWGKLCfMr8aQBbLNBTuuN3hiaZuNd"
+    ],
+    "affects": [
+        "YES can access the app"
+    ]
+}

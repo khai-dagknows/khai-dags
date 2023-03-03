@@ -1,0 +1,52 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674419024.35245,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "UwLFr6RibizmBGVj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "e3TFkrlcZIi7manz3DaN1zMNgDDDtVqh",
+    "nodename": {
+        "node_func": "NO the selector is not matching right pod label"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "NO the selector is not matching right pod label"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5956402,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "nbJAhBqOZL2WrL2gXhSo4NYmqHYVtULO",
+            "reason_func": "Fix the service selector. It has to match the pod labels."
+        }
+    ],
+    "parents": [
+        "GrJc45p4bJ1kdLKHBWCL2Lg48XxXBwOb"
+    ],
+    "affects": [
+        "Is the selector matching the right pod label?"
+    ]
+}

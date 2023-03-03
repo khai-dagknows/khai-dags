@@ -1,0 +1,53 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674433265.00485,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "ZsQvl2DYASmAoj6K",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "dmEh4dK2NhxH1PkJSDvtLjl5vM9oGAR0",
+    "nodename": {
+        "node_func": "Describe ingress"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Describe ingress"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595819,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "ci1neZi5waPpluAJ6sP1qclXJglaCgMV",
+            "reason_func": "Can you see a list of backends?",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "A7zl6VS8U1hHRdRw644pAmGtsFaVC4k2"
+    ],
+    "affects": [
+        "The service is running correctly"
+    ]
+}

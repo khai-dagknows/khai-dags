@@ -1,0 +1,64 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674462633.53802,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        },
+        {
+            "text": "",
+            "tstp": 1674462666.46332,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "wWDy7FWwsrtUwlIPKc1E4kdSAQ0oA9L1",
+    "nodename": {
+        "node_func": "Describe the non-RUNNING pods"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Describe the non-RUNNING pods"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958674,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "ryjWCedTdtU52qv6szRPHbl4xgMRYRvL",
+            "reason_func": "Is the pod status ImagePullBackOff?",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "SjylO4hxOwaTy3fzKLnepmBv48Kn4ysU"
+    ],
+    "affects": [
+        "NO can't see the logs of the app"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674418782.37609,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "UwLFr6RibizmBGVj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "U78LlVkUbWjWXtWxe40TqCiUO88l69hi",
+    "nodename": {
+        "node_func": "Can you see a list of endpoints?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Can you see a list of endpoints?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5956295,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "AsMEfc6Ry18cztoOjMNNI3yPfyZpf4of",
+            "reason_func": "NO can't see a list of endpoints",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "cSECuBR0KEvLbXqChjJHudYF3wKX3HdP",
+            "reason_func": "YES can see a list of endpoints",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "WGTTLnXD8StgAQ0sCt0t0aaPTl72xyuL"
+    ],
+    "affects": [
+        "Describe a service"
+    ]
+}

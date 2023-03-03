@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "o4v0s1IXtOakq8wrVWQW39RwTFquZjL1",
+    "nodename": {
+        "node_func": "The issue could be with the CRI or Kubelet"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958846,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "MMmAbyNkmvKFCM5qSoClXMJrTPxL8V0U"
+    ],
+    "affects": [
+        "NO not pulling image from a private registry"
+    ]
+}

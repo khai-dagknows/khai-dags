@@ -1,0 +1,53 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674411485.38887,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "1UvsajNWGPSmx9PP",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "ES13V3wqQ9wVK04m5YqA7n6wFOOpDFCF",
+    "nodename": {
+        "node_func": "NO can't access the app"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "NO can't access the app"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595614,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "rP8aFUyaXUkAOdoarNF60xGpJXNdgdnH",
+            "reason_func": "Is the port exposed by the container correct and listening on 0.0.0.0?",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "fYTsbqXkfjEmLSqelLejmquOzyoaiE7H"
+    ],
+    "affects": [
+        "Can you access the app?"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "JdxOCViD1IKUD4119W414ZfWJlbUliEA",
+    "nodename": {
+        "node_func": "The issue could be with Kube Proxy"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958157,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "eIIPkSVsQmLVQYHxfRZozCXytt5AyexF"
+    ],
+    "affects": [
+        "YES the targetPort on the service is matching the containerPort in the pod"
+    ]
+}

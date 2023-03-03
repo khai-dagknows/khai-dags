@@ -1,0 +1,14 @@
+{
+    "create_user": {
+        "uname": "khai@dagknows.com",
+        "org": "DagKnows",
+        "role": "Supremo",
+        "first_name": "Khai",
+        "last_name": "Doan"
+    },
+    "modify_user": {},
+    "create_tstp": 1675204502.2954187,
+    "dag_title": "Kubernetes troubleshooting pods deployment",
+    "dag_description": "<p><br></p>",
+    "dag_id": "d26IIVsUmwdbgg7lGJ6Nff8OXUEFpkDb"
+}

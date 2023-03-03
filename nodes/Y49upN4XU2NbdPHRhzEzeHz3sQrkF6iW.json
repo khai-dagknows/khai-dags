@@ -1,0 +1,53 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674411371.57412,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "1UvsajNWGPSmx9PP",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "Y49upN4XU2NbdPHRhzEzeHz3sQrkF6iW",
+    "nodename": {
+        "node_func": "YES all the pods are READY"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "YES all the pods are READY"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5956001,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "fYTsbqXkfjEmLSqelLejmquOzyoaiE7H",
+            "reason_func": "Can you access the app?",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "Be2HUX7gdt0obZjpZ2Gc40wnyDMAsnUG"
+    ],
+    "affects": [
+        "Are all the pods READY?"
+    ]
+}

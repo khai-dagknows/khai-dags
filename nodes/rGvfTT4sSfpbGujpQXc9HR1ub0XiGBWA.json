@@ -1,0 +1,27 @@
+{
+    "class": [],
+    "description": "",
+    "group": "",
+    "node_id": "rGvfTT4sSfpbGujpQXc9HR1ub0XiGBWA",
+    "nodename": {
+        "node_func": "Execute the ingress controller troubleshooting DAG"
+    },
+    "nodetype": "Problem",
+    "privacy_level": "internal",
+    "res": "",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958278,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [],
+    "parents": [
+        "jOJSpeUlLHnlLU1qSyhKungbtxdIzdlT",
+        "n0obVjjss8verb7FsdTHGJ5R0oHPQyKL"
+    ],
+    "affects": [
+        "YES the serviceName and servicePort are matching the service",
+        "NO can't visit the app after ingress port forwarding"
+    ]
+}

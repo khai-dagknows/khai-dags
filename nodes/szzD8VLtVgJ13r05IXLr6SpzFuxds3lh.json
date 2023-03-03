@@ -1,0 +1,53 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674462825.75196,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "szzD8VLtVgJ13r05IXLr6SpzFuxds3lh",
+    "nodename": {
+        "node_func": "YES the name of the image is correct"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "YES the name of the image is correct"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595872,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "JQjXn2hMfgizo0S5DvU7hUcPbU95Hd5f",
+            "reason_func": "is the image tag valid? Does it exist?",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "FSF6wS3QtxKzii2Z0buyqSL8t9xPIMux"
+    ],
+    "affects": [
+        "Is the name of the image correct?"
+    ]
+}

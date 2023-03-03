@@ -1,0 +1,57 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674461287.14903,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "Y1FMrFyOekhmqGLj",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "xGUxho9khB1lKE3hs0O7eUwsvESSGvNe",
+    "nodename": {
+        "node_func": "Can you visit the app from the public Internet?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Can you visit the app from the public Internet?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.5958376,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "AhDAnPJJares5uoZpdE1WsKzmP2I6FIp",
+            "reason_func": "NO can't visit the app from the public Internet",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "VOTToLBvaWumkniHQDwLYlZD9otVF5wl",
+            "reason_func": "YES can visit the app from the public Internet"
+        }
+    ],
+    "parents": [
+        "zCAkflLxZZZ2jjgmqSGLDIZxAraPL6wJ"
+    ],
+    "affects": [
+        "The ingress is running correctly"
+    ]
+}

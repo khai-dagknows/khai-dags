@@ -1,0 +1,58 @@
+{
+    "class": [],
+    "comments": [
+        {
+            "text": "",
+            "tstp": 1674411192.14985,
+            "user_info": {
+                "first_name": "Sarang",
+                "last_name": "Dharmapurikar",
+                "org": "DagKnows",
+                "role": "Supremo",
+                "uname": "sarang@dagknows.com"
+            }
+        }
+    ],
+    "conv_id": "OVXkqzgM0Bd56JlYUb7wxw",
+    "currsession": "1UvsajNWGPSmx9PP",
+    "description": "<p><br></p>",
+    "evidence": "<p><br></p>",
+    "evidtype": "Description",
+    "group": "",
+    "msg": "",
+    "node_id": "FHlb0dET541OdxzfZTosrxBgsu4VxKRw",
+    "nodename": {
+        "node_func": "Are all the pods RUNNING?"
+    },
+    "nodetype": "Problem",
+    "prevnodename": {
+        "node_func": "Are all the pods RUNNING?"
+    },
+    "privacy_level": "internal",
+    "res": "<p><br></p>",
+    "restype": "Description",
+    "state": "approved",
+    "tags": {},
+    "metadata": {
+        "create_tstp": 1675204494.595584,
+        "create_username": "info@dagknows.com"
+    },
+    "reasons": [
+        {
+            "reason_node_id": "r84jHfGRFcLApobs4NaTnZtee17Av8WQ",
+            "reason_func": "YES all the pods are RUNNING",
+            "reason_input_params": {}
+        },
+        {
+            "reason_node_id": "lmZeu8bDOS1Za0Qq8lVxEMr481sjh7VN",
+            "reason_func": "NO not all the pods are RUNNING",
+            "reason_input_params": {}
+        }
+    ],
+    "parents": [
+        "YjZPFp1ppnduiPt0jfHNhmFi8nlEVFUU"
+    ],
+    "affects": [
+        "NO there aren't any PENDING pods"
+    ]
+}
